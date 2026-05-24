@@ -13,6 +13,6 @@ Databases & Infra: PostgreSQL | MySQL | ClickHouse | Firebase | Redis | Docker
 - Building scalable internal tooling and modular admin panels.
 
 📫 How to reach me:
-- Telegram: [(@G1glz)](https://t.me/G1glz)
-- LinkedIn: [(click here)](https://www.linkedin.com/in/oleg-albaut-638a86272/)
+- Telegram: [@G1glz](https://t.me/G1glz)
+- LinkedIn: [click here](https://www.linkedin.com/in/oleg-albaut-638a86272/)
 - Email: oleg.al.ya@yandex.ru
