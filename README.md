@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Oleg 👋
+### Senior Full-Stack & Mobile Engineer
 
-<!--
-**OlegAlb/OlegAlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend: Node.js (TypeScript) | PHP (Laravel, Filament)
+Mobile & Frontend: React Native | React | Next.js
+Databases & Infra: PostgreSQL | MySQL | ClickHouse | Firebase | Redis | Docker
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 My Core Engineering Focus:
+- High-fidelity & hardware-accelerated mobile UIs (React Native Skia, Reanimated worklets).
+- Application security & source code audits (OWASP Top 10, eliminating RCE vulnerabilities).
+- Building scalable internal tooling and modular admin panels.
+
+📫 How to reach me:
+- Telegram: [(@G1glz)](https://t.me/G1glz)
+- LinkedIn: [(click here)](https://www.linkedin.com/in/oleg-albaut-638a86272/)
+- Email: oleg.al.ya@yandex.ru
