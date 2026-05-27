@@ -1,7 +1,7 @@
 # Hi, I'm Oleg 👋 
 ### Senior Full-Stack & Mobile Engineer
 
-[🇬🇧 English] | [🇷🇺 Посмотреть на русском](README.ru.md)
+[English] | [Русский](README.ru.md)
 
 I am a software engineer with 7+ years of commercial experience specializing in end-to-end application architecture, high-performance mobile runtimes, resilient backend systems, and web security.
 
